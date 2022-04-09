@@ -1,0 +1,22 @@
+{
+  "name": "myddr-test",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myddrgov/myddr-test.git"
+  },
+  "dependencies": {
+    "untitled-logging-library": "^0.2.3",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myddrgov/myddr-test/issues"
+  },
+  "homepage": "https://github.com/myddrgov/myddr-test"
+}
