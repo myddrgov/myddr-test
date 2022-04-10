@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/myddrgov/myddr-test#readme",
   "dependencies": {
-    "axios": "^0.26.1"
+    "axios": "^0.26.1",
+    "express": "^4.17.1"
   }
 }
